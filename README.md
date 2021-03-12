@@ -61,5 +61,5 @@ App for business to be able to view and manage the departments, roles, and emplo
 
 ## Example Gif
 
-<img src="Assets/schema.png" width="500" />
-<img src="Assets/employee-tracker.gif" width="500" />
+<img src="image/schema.png" width="500" />
+<img src="image/employee-tracker.gif" width="500" />
